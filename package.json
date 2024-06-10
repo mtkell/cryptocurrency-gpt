@@ -17,9 +17,9 @@
     "binance-api-node": "^0.12.6",
     "dotenv": "^16.0.3",
     "lightweight-charts": "^4.0.1",
-    "openai": "^3.3.0",
+    "openai": "^4.49.1",
     "tailwindcss": "^3.3.1",
-    "update": "^0.7.4"
+    "update": "^0.4.2"
   },
   "devDependencies": {
     "@types/json-schema": "^7.0.12",
